@@ -1,0 +1,4 @@
+rootProject.name = 'skelleton'
+
+include 'app'
+include 'shared'
